@@ -1,6 +1,5 @@
 ﻿#pragma once
 #include"IScene.h"
-//#include "dinput.h"
 #include"Novice.h"
 
 class TitleScene :public IScene

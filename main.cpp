@@ -2,7 +2,7 @@
 #include"GameManager.h"
 
 
-const char kWindowTitle[] = "学籍番号";
+const char kWindowTitle[] = "GC2D_09_ツカダ_ハルト";
 
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
